@@ -1,0 +1,21 @@
+{
+  "name": "file-upload-stream",
+  "version": "1.0.0",
+  "description": "Takes a file and streams to a http server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "stream"
+  ],
+  "author": "Jacob Burden",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jekrb/file-upload-stream.git"
+  },
+  "homepage": "https://github.com/jekrb/file-upload-stream"
+}
